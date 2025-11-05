@@ -40,5 +40,4 @@ it('Повинен знайти всі посилання та кнопки з �
       .and('include', 'mailto:developer@ithillel.ua');
   });
 });
-
 });
